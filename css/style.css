@@ -1,0 +1,103 @@
+.logo {
+	background: #1B2631;
+    float: left;
+    margin: 5%;
+}
+nav{
+	background-color: #1B2631;
+}
+nav a{
+	text-decoration: none;
+	color: white;
+	font-family: Arial;
+	font-size: 75%;
+	float: left;
+	margin: 2%;
+	margin-top: 12%;
+}
+h4{
+	font-family: Arial;
+	position: relative;
+	margin-right: 1%;
+	margin: 1.5%;
+	
+}
+.minuscula{
+	font-size: 70%;
+	text-decoration: none;
+	
+}
+.latest{
+	background-color: #DCDCDC;
+	padding: 1%;
+	float: left;
+	display: inline;
+}
+
+.episodes{
+	width: 80%;
+    margin-bottom: 2%;
+}
+.small{
+	height: 130%;
+	width: 130%;
+	padding: 5%;
+	float: left;
+
+}
+/*h5{
+	float: left;
+	color: #4169E1;
+	font-family: Arial;
+	margin-bottom: 2%;
+}
+.uno{
+	margin-left: 8%;
+}
+.dos{
+    margin-left: 15%;	
+}
+.tres{
+	margin-left: 13%;
+}
+.cuatro{
+	margin-left: 15%;
+}
+.columna{
+	
+	display: inline;
+	float: right;
+	margin-left: 105%;
+	border-top: 50%;
+
+}
+.icono{
+	float: left;
+}*/
+.columna{
+	display: inline-block;
+	margin: 6px;
+}
+.podcast{
+	height: 6%;
+	width: 6%;
+}
+.radio{
+    height: 6%;
+	width: 6%;
+}
+.pencil{
+    height: 6%;
+	width: 6%;
+}
+.july{
+	text-align:  ;
+}
+.titulo{
+	text-align: center;
+}
+p{
+	font-family: Arial;
+	font-size: 70%;
+}
+
